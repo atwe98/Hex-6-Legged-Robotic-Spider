@@ -12,3 +12,5 @@ All custom parts ar edesigned on SolidWorks and converted to DWG for laser cutti
 
 Project made by Fouad Atwi and Buraq Al Alaeli
 Presented as a project for Electric Machines I
+
+(Photos and circuit schematics to be uploaded later)

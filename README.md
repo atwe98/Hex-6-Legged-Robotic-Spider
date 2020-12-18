@@ -6,9 +6,9 @@ Components used:
 -Bluetooth Module: HC-05 
 -Servos: SG-90 micro servos
 -Power: two 3.7V slim Li-ion connected in series to a buck converter LM2596
--custom made shield for easy connection to all components
+-Custom-made shield for easy connection to all components
 
-All custom parts ar edesigned on SolidWorks and converted to DWG for laser cutting.
+All custom parts are designed on SolidWorks and converted to DWG for laser cutting.
 
 Project made by Fouad Atwi and Buraq Al Alaeli
 Presented as a project for Electric Machines I
